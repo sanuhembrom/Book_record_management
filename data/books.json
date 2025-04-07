@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+          "id": 1,
+          "title": "The hobbit",
+          "author": "J.R.R. Tolkien",
+          "genre": "fantasy",
+          "price": 12.99,
+          "publisher": "George Allen & Unwin"
+        },
+        {
+          "id": 2,
+          "title": "The Land Before Time",
+          "author": "Alen Moore",
+          "genre": "fantasy",
+          "price": 12.99,
+          "publisher": "George Allen & Unwin"
+        },
+        {
+          "id": 3,
+          "title": "The hobbit",
+          "author": "J.R.R. Tolkien",
+          "genre": "fantasy",
+          "price": 12.99,
+          "publisher": "George Allen & Unwin"
+        }
+    ]
+}
