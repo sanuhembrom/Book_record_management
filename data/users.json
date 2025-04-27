@@ -1,40 +1,40 @@
 {
     "users": [
         {
-            "id": 1,
+            "id": "1",
             "name": "John",
             "surname": "Doe",
             "email": "user@gmail.com",
-            "issuedBook": 1,
+            "issuedBook": "1",
             "issuedDate": "04-01-2025",
             "returnDate": "05-01-2025",
             "subscriptionType": "premium",
             "subscriptionDate": "04-01-2025"
         },
         {
-          "id": 2,
+          "id": "2",
           "name": "John",
           "surname": "Doe",
           "email": "user@gmail.com",
-          "issuedBook": 2,
+          "issuedBook": "2",
           "issuedDate": "01-07-2025",
           "returnDate": "01-10-2025",
-          "subscriptionType": "premium",
-          "subscriptionDate": "04-01-2025"
+          "subscriptionType": "Basic",
+          "subscriptionDate": "03-01-2025"
         },
         {
-          "id": 3,
+          "id": "3",
           "name": "John",
           "surname": "Doe",
           "email": "user@gmail.com",
-          "issuedBook": 1,
+          "issuedBook": "1",
           "issuedDate": "01-07-2025",
           "returnDate": "01-10-2025",
-          "subscriptionType": "premium",
+          "subscriptionType": "Basic",
           "subscriptionDate": "01-01-2025"
         },
         {
-          "id": 4,
+          "id": "4",
           "name": "John",
           "surname": "Doe",
           "email": "user@gmail.com",
